@@ -1,15 +1,15 @@
 ---
-source-git-commit: 0e74aa727f7d4f874cfc1fc0cfc18a7c30d83e73
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 56%
 
 ---
-# Contribuição
+# Contribuir com a documentação do Adobe Experience Manager Skill Builder
 
-Obrigado por escolher contribuir.
+Agradecemos sua colaboração na documentação do Adobe Experience Manager Screens. A Adobe aceita contribuições de conteúdo de toda a comunidade de leitores(as) e de colegas que trabalham na Adobe.
 
-Leia a seguir o conjunto de orientações a serem seguidas ao contribuir para esse projeto.
+Esse arquivo descreve como colaborar, além de apontar as diretrizes que devem ser seguidas ao fazer suas contribuições.
 
 ## Código de conduta
 
@@ -17,7 +17,7 @@ Este projeto segue o [código de conduta](code-of-conduct.md) da Adobe. Ao parti
 
 ## Documentação do Manual do colaborador
 
-Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
+Consulte o [Manual do colaborador](https://experienceleague.adobe.com/br/docs/contributor/contributor-guide/introduction).
 
 ## Alguma dúvida?
 
@@ -27,11 +27,11 @@ consenso sobre a direção do projeto e a solução de problemas em processos de
 
 ## Contrato de licença do colaborador
 
-Todas as contribuições de terceiros a este projeto devem ser acompanhadas por um contrato de licença do colaborador (CLA) assinado. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). É necessário enviar apenas um Adobe CLA por vez. Se já tiver enviado anteriormente, você pode continuar.
+Um contrato de licença de colaborador assinado deve acompanhar todas as contribuições de terceiros para esse projeto. Este contrato concede à Adobe permissão para redistribuir suas contribuições como parte do projeto. [Assinar Adobe CLA](https://opensource.adobe.com/cla.html). É necessário enviar apenas um Adobe CLA por vez. Se já tiver enviado anteriormente, você pode continuar.
 
 ## Revisões do código
 
-Todos os envios devem vir na forma de solicitações de envio e precisam ser revisados pelos confirmadores do projeto. Leia a [documentação de solicitação de envio do GitHub](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obter mais informações sobre envio de pull requests.
+Todos os envios devem vir na forma de solicitações pull. Envios de análise dos responsáveis pelo projeto. Leia a [documentação de solicitação de envio do GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) para obter mais informações sobre envio de pull requests.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -40,12 +40,8 @@ submitting a pull request!
 
 ## Do colaborador para o confirmador
 
-Adoramos contribuições vindas de nossa comunidade. Se você quiser ir um passo além do colaborador
-e se tornar um confirmador com acesso total à gravação e voz ativa no projeto, você deve
-ser convidado para o projeto. Os confirmadores existentes empregam um processo de nomeação interna que deve alcançar consenso lento (silêncio é aprovação) antes dos convites
-serem emitidos. Se você se sentir qualificado e quiser se envolver mais,
-sinta-se à vontade para entrar em contato com os confirmadores existentes e conversar a respeito.
+Adobe recebe contribuições da comunidade. Se você quiser se tornar um executor com acesso de gravação total e uma voz no projeto, você deve ser convidado para o projeto. Os confirmadores existentes empregam um processo de nomeação interna que deve chegar a um consenso lento (silêncio é aprovação) antes que os convites sejam emitidos. Se você estiver qualificado e quiser se envolver mais, entre em contato com os confirmadores existentes.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [registre um problema junto aos nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [registre um problema junto aos especialistas em segurança da Adobe](https://helpx.adobe.com/br/security/alertus.html)

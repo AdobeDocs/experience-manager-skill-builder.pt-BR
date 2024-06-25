@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] noções básicas
 
-Saiba como criar experiências completas e envolventes para o cliente no Adobe Experience Manager nesta série de webinários de 5 partes. Começaremos com os componentes básicos da criação de conteúdo, apresentando os conceitos e as operações fundamentais. Isso incluirá recursos de administração de sites e noções básicas sobre como lidar com ativos digitais no AEM. Na última parte da série, descubra recursos que podem ajudá-lo a economizar tempo e ser mais eficiente, reutilizando o conteúdo e fornecendo-o através de canais.
+Saiba como criar experiências completas e envolventes para o cliente no Adobe Experience Manager nesta série de webinários de 5 partes. A série começa com os componentes básicos da criação de conteúdo, enquanto apresenta os conceitos e as operações fundamentais. Ele inclui recursos de administração de sites e noções básicas sobre como lidar com ativos digitais no AEM. Na última parte da série, descubra recursos que podem ajudá-lo a economizar tempo e ser mais eficiente, reutilizando o conteúdo e fornecendo-o através de canais.
 
 ## Gerencie facilmente o conteúdo em constante mudança
 
