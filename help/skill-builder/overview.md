@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # [!DNL Experience Manager] Gravações do Skill Builder
 
-Bem-vindo ao Adobe [!DNL Experience Manager] Página inicial de Gravações do Skill Builder com webinários gravados projetados para construir sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager].
+Bem-vindo à página inicial de Gravações do Adobe [!DNL Experience Manager] Skill Builder, que apresenta webinários gravados projetados para construir sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager].
 
 ## Novidades
 
@@ -27,7 +27,7 @@ Bem-vindo ao Adobe [!DNL Experience Manager] Página inicial de Gravações do S
     </a>
     </div>
     <p>
-    <em>[!DNL Asset Link] O é sua conexão nativa com o Adobe Creative Cloud.</em>
+    <em>[!DNL Asset Link] é sua conexão nativa com o Adobe Creative Cloud.</em>
     <p>
   </td>
   <td>

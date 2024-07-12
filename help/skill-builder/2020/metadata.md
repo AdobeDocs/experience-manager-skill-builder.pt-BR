@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# Metadados - Adobe [!DNL Experience Manager Assets] série
+# Metadados - Série Adobe [!DNL Experience Manager Assets]
 
-Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Perfeito para recém-chegados e usuários experientes, esta sessão oferece uma exploração abrangente do Adobe [!DNL Experience Manager Assets]Os cinco recursos essenciais do para lidar com a solução. Os especialistas em Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
+Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Perfeito para recém-chegados e usuários experientes, esta sessão oferece uma análise abrangente dos cinco recursos essenciais do Adobe [!DNL Experience Manager Assets] para lidar com a solução. Os especialistas em Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -34,7 +34,7 @@ Definir uma estratégia clara para otimizar a descoberta.
 *[Otimizar a criação de metadados com metadados em cascata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
 *[Aplicar metadados automaticamente a ativos usando Perfis de metadados](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
 *[Esquemas de metadados AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Gerenciar metadados de ativos](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Gravações em série
 

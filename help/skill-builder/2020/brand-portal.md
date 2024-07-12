@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# BRAND PORTAL - ADOBE [!DNL Experience Manager Assets] série
+# Brand Portal - série Adobe [!DNL Experience Manager Assets]
 
-Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Melhore o seu domínio do Adobe [!DNL Experience Manager Assets], seja você um iniciante ou experiente. Aprofunde-se nos cinco aspectos críticos da plataforma com este guia abrangente. Os especialistas em Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
+Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Melhore o seu domínio do Adobe [!DNL Experience Manager Assets], seja você um iniciante ou um experiente. Aprofunde-se nos cinco aspectos críticos da plataforma com este guia abrangente. Os especialistas em Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -30,8 +30,8 @@ O Brand Portal facilita o compartilhamento de ativos com equipes internas e exte
 ## Recursos
 
 * [Visão geral do [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal] Vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] fornecimento](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* Vídeos do [[!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] origem](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Gravações em série
 
