@@ -8,11 +8,11 @@ feature: Multi Site Manager
 topic: Localization
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

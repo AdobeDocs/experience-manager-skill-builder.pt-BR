@@ -1,6 +1,6 @@
 ---
 title: A Web e muito mais - o poder do gerenciamento de conteúdo tradicional e headless
-description: Saiba como as estruturas de CMS tradicionais e headless estão moldando o futuro do gerenciamento de conteúdo e da entrega de experiência digital.
+description: Saiba como as estruturas tradicionais e headless do CMS estão moldando o futuro do gerenciamento de conteúdo e da entrega de experiência digital.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -8,11 +8,11 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

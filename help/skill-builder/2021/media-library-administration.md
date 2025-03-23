@@ -1,6 +1,6 @@
 ---
 title: Nunca perca tempo encontrando conteúdo novamente
-description: Aprimore sua habilidade de criação com um guia detalhado para sites e Media Library do AEM com dicas práticas para simplificar seu fluxo de trabalho diário.
+description: Aprimore sua capacidade de criação com um guia detalhado do Sites e da Biblioteca de mídia da AEM, com dicas práticas para simplificar seu fluxo de trabalho diário.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -8,11 +8,11 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Saiba como criar experiências completas e envolventes para o cliente no Adobe E
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Aumente suas habilidades de criação com uma jornada por meio do AEM Sites e da interface do usuário de administração do Media Library, munida de estratégias eficazes para aumentar sua produtividade diária.
+Aumente suas habilidades de criação com uma jornada por meio da interface do usuário de administração do Sites e da Biblioteca de mídia da AEM, equipada com estratégias eficazes para aumentar sua produtividade diária.
 
 ## Gravações em série
 
