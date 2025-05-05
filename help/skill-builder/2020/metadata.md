@@ -29,12 +29,12 @@ Definir uma estratégia clara para otimizar a descoberta.
 
 ## Recursos
 
-*[Usar esquemas de metadados para gerenciar metadados de ativos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Estender esquemas de metadados](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Otimizar a criação de metadados com metadados em cascata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[Aplicar metadados automaticamente a ativos usando Perfis de metadados](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[Esquemas de metadados AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Usar esquemas de metadados para gerenciar metadados de ativos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/authoring/metadata)
+*[Estender esquemas de metadados](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Otimizar a criação de metadados com metadados em cascata](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Aplicar metadados automaticamente a ativos usando Perfis de metadados](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[Esquemas de metadados AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[Gerenciar metadados do ativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Gravações em série
 
