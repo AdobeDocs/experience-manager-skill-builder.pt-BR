@@ -29,11 +29,11 @@ Automatize a saída de ativos para todos os canais e telas com o [!DNL Dynamic M
 
 ## Recursos
 
-*[[!DNL Dynamic Media] Casos de uso](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
-*[[!DNL Dynamic Media] Vídeos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
+*[[!DNL Dynamic Media] Casos de uso](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] Vídeos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[Guia de Início Rápido de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guia de Predefinição de Imagem de Estratégia de Mídia Avançada](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Práticas recomendadas do Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
+*[Práticas recomendadas do Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Gravações em série
 
