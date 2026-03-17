@@ -1,7 +1,7 @@
 ---
 title: Tornar-se global com o Adobe Experience Manager
 description: Saiba mais sobre os fundamentos do gerenciamento de vários sites e da tradução de conteúdo da Web com dicas sobre como projetar uma estrutura global de site.
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Multi Site Manager
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

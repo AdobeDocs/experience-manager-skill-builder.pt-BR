@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Asset Link]'
 description: Sua conexão nativa com o Adobe Creative Cloud.
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
-feature: Adobe [!DNL Asset Link]
+feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '145'
+ht-degree: 15%
 
 ---
 
@@ -29,9 +29,9 @@ Use esta série de webinários de cinco partes para criar sua base de conhecimen
 
 ## Recursos
 
-* [vídeos [!DNL Asset Link] Adobe](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Vídeos do Adobe [!DNL Asset Link] ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] para Adobe XD](https://helpx.adobe.com/br/enterprise/using/adobe-asset-link-for-xd.html)
-* [Configurar [!DNL AEM Assets] 6.5 e 6.4 para Adobe [!DNL Asset Link]](https://helpx.adobe.com/br/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Configurar o  [!DNL AEM Assets] 6.5 e o 6.4 para o Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Configurar [!DNL AEM as a Cloud Service] para Adobe [!DNL Asset Link]](https://helpx.adobe.com/br/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Gravações em série

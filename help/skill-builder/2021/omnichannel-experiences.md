@@ -1,7 +1,7 @@
 ---
 title: Conteúdo para QUALQUER LUGAR - Tornar as experiências omnicanais uma realidade
 description: Saiba como fornecer experiências em uma grande variedade de canais a partir de um ambiente
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Authoring
@@ -12,9 +12,9 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
