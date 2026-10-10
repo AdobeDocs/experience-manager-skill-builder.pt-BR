@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: 37b06cb96ba679d7f65a774d9fe59eeb6109775b
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 15%
-
 ---
-
 # [!DNL Asset Link] - Série [!DNL Experience Manager Assets] do Adobe
 
 Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Novo ou temperado no Adobe [!DNL Experience Manager Assets]? Aperfeiçoe suas habilidades com uma exploração detalhada de seus cinco recursos principais. Aumente seu conhecimento com eficiência. Os especialistas da Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
@@ -29,7 +38,7 @@ Use esta série de webinários de cinco partes para criar sua base de conhecimen
 
 ## Recursos
 
-* [Vídeos do Adobe [!DNL Asset Link] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Vídeos do Adobe [!DNL Asset Link] &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] para Adobe XD](https://helpx.adobe.com/br/enterprise/using/adobe-asset-link-for-xd.html)
 * [Configurar o  [!DNL AEM Assets] 6.5 e o 6.4 para o Adobe [!DNL Asset Link]](https://helpx.adobe.com/br/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Configurar [!DNL AEM as a Cloud Service] para Adobe [!DNL Asset Link]](https://helpx.adobe.com/br/enterprise/using/configure-aem-assets-for-asset-link.html)

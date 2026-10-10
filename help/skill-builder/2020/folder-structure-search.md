@@ -12,13 +12,22 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 754371f13e13449e2d933f32e840b3372918b465
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
-
 ---
-
 # Estrutura de pastas e pesquisa - Adobe série [!DNL Experience Manager Assets]
 
 Use esta série de webinários de cinco partes para criar sua base de conhecimento e maximizar seu investimento no Adobe [!DNL Experience Manager Assets]. Seja você novo no Adobe [!DNL Experience Manager Assets] ou aperfeiçoando suas habilidades, este aprofundamento em cinco áreas principais é a maneira perfeita de aprimorar sua experiência. Os especialistas da Adobe analisam os conceitos básicos e também fornecem insights avançados que permitem definir as próximas etapas acionáveis que você pode colocar em prática imediatamente.
@@ -30,7 +39,7 @@ Noções básicas para configuração e uso do seu DAM.
 ## Recursos
 
 * [Guia do Usuário do [!DNL AEM Assets]](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/assets/assets)
-* [Configurando sua  [!DNL AEM Assets] estrutura de pastas](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configurando sua  [!DNL AEM Assets] estrutura de pastas](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [Configurar  [!DNL AEM Assets] permissões de pasta](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [Usar coleções para organizar e compartilhar ativos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [Encontrar ativos visualmente semelhantes com aprendizado de máquina](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets/search-and-discovery/search)
