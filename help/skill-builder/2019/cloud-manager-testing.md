@@ -19,7 +19,7 @@ ht-degree: 3%
 ---
 # Testando práticas recomendadas com o [!DNL Cloud Manager] - setembro de 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507313/?captions=por_br&quality=9&learn=on)
 
 
 **Apresentadores**
